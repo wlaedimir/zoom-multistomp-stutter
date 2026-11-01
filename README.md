@@ -98,15 +98,6 @@ y apaga el efecto.
 Mientras no muevas un knob, el efecto usa su valor por defecto. Desde que lo
 mueves, vale lo que marca el pedal.
 
-### Ideas de uso
-
-- **Ratchets sobre un riff o un bajo secuenciado:** Size 20–35, Chance 60,
-  Chaos 55–70, Mix 100.
-- **Glitch ocasional y musical:** Size 40–60, Chance 20–30, Chaos 10, Mix 100.
-- **Lo-fi roto:** Chance 80, Chaos 70, Crush 50–60.
-- **Drone para tocar encima:** toca una nota o acorde con Chance en 0, sube
-  Freeze y sigue tocando. Baja Mix para mezclar el loop con tu señal.
-
 ### Instalación
 
 Necesitas un computador (Windows o macOS), el cable USB del pedal y
@@ -268,16 +259,6 @@ effect on and off.
 
 Until you turn a knob, the effect uses its default value. Once you turn it,
 the value shown on the pedal applies.
-
-### Ideas
-
-- **Ratchets on a riff or a sequenced bass line:** Size 20–35, Chance 60,
-  Chaos 55–70, Mix 100.
-- **Occasional, musical glitches:** Size 40–60, Chance 20–30, Chaos 10,
-  Mix 100.
-- **Broken lo-fi:** Chance 80, Chaos 70, Crush 50–60.
-- **Drone to play over:** play a note or chord with Chance at 0, turn Freeze
-  up and keep playing. Lower Mix to blend the loop with your signal.
 
 ### Installation
 
